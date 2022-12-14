@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "63971350d309b04c7da26fe0"
+  },
+  "foodName": "Apple",
+  "daysSinceIAte": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6397ffb4113d3186b1a94731"
+  },
+  "foodName": "Avocado",
+  "daysSinceIAte": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63984099c2848235984ca395"
+  },
+  "foodName": "Potato",
+  "daysSinceIAte": 4,
+  "__v": 0
+}]
